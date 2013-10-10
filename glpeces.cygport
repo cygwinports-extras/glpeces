@@ -1,0 +1,14 @@
+inherit qt4-qmake
+
+NAME="glpeces"
+VERSION=5.0
+RELEASE=1
+CATEGORY="Games"
+SUMMARY="Qt Tangram game"
+DESCRIPTION="A tangram program for Qt with 33 types of tangram pieces and
+more than 4600 shapes."
+HOMEPAGE="http://pecesjocdetangr.sourceforge.net/"
+SRC_URI="mirror://sourceforge/pecesjocdetangr/${NAME}-${VERSION}.tar.gz"
+PATCH_URI="4.0.2-bindir.patch"
+
+DOCS="copying readme"

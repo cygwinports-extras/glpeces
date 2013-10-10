@@ -1,5 +1,5 @@
---- origsrc/glpeces.pro	2010-12-24 09:07:16.000000000 -0600
-+++ src/glpeces.pro	2011-01-23 23:42:47.323828600 -0600
+--- a/glpeces.pro	2010-12-24 09:07:16.000000000 -0600
++++ b/glpeces.pro	2011-01-23 23:42:47.323828600 -0600
 @@ -43,7 +43,7 @@ SOURCES += main.cpp \
  RESOURCES += resources.qrc
  unix:!macx { 

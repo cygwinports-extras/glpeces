@@ -1,5 +1,0 @@
-category: Games
-requires: libgcc1 libQtCore4 libQtGui4 libstdc++6
-sdesc: "Qt Tangram game"
-ldesc: "A tangram program for Qt with 33 types of tangram pieces and
-more than 4600 shapes."
